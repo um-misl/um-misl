@@ -1,4 +1,4 @@
-# Mind in the Society Lab at University of Michigan, Ann Arbor
+## Mind in the Society Lab at University of Michigan, Ann Arbor
 #### - P.I.: Nicholas Camp
 
 - This account is to maintain lab repositories safely.
